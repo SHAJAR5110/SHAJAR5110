@@ -1,8 +1,86 @@
 # Hi there! 👋 I'm Shajar Abbas
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Agentic AI Developer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Developer Text</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #0d1117;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        .modern-text {
+            text-align: center;
+            padding: 2rem;
+            border-radius: 20px;
+            background: linear-gradient(145deg, #161b22, #21262d);
+            box-shadow: 
+                0 8px 32px rgba(0, 217, 255, 0.1),
+                inset 0 1px 0 rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(0, 217, 255, 0.2);
+            max-width: 600px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .modern-text::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #00d9ff, transparent);
+        }
+        
+        .title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #00d9ff, #0066cc);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+        }
+        
+        .subtitle {
+            font-size: 1.5rem;
+            font-weight: 500;
+            background: linear-gradient(135deg, #58a6ff, #79c0ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin: 0;
+            letter-spacing: 0.02em;
+        }
+        
+        .separator {
+            width: 80px;
+            height: 3px;
+            background: linear-gradient(90deg, #00d9ff, #0066cc);
+            margin: 1.5rem auto;
+            border-radius: 2px;
+        }
+    </style>
+</head>
+<body>
+    <div class="modern-text">
+        <h1 class="title">MERN Stack Developer</h1>
+        <div class="separator"></div>
+        <h2 class="subtitle">Agentic AI Developer</h2>
+    </div>
+</body>
+</html>
 
 ## 🚀 About Me
 
