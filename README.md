@@ -10,7 +10,7 @@
 
 I'm a passionate **Full Stack Developer** and **Software Engineer** with expertise in modern web technologies. I love creating innovative solutions and building applications that make a difference.
 
-- 🔭 I'm currently working on **MERN Stack Projects** and **Python Applications**
+- 🔭 I'm currently working on **MERN Stack Projects**,**Agentic Ai** and **Python Applications**
 - 🌱 I'm continuously learning **Advanced React**, **Node.js**, and **Machine Learning**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js, MongoDB**
