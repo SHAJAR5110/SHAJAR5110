@@ -51,9 +51,6 @@ I'm a passionate **Full Stack Developer** and **Software Engineer** with experti
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAJAR5110&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAJAR5110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
