@@ -86,22 +86,20 @@ I'm a passionate **Full Stack Developer** and **Software Engineer** with experti
 - 🔨 Building scalable web applications with **MERN Stack**
 - 🐍 Developing Python applications for **automation** and **data analysis**
 - 🎯 Contributing to **open-source projects**
-- 📱 Learning **React Native** for mobile development
-- 🤖 Exploring **Machine Learning** and **AI integration**
 
 ## 📚 Learning Journey
 
 - 🎓 **Bachelor's in Software Engineering** (In Progress)
 - 💻 **Full Stack Web Development** - Self-taught
+- 📊 **Agentic Ai** - Self-taught
 - 🐍 **Python Programming** - Advanced Level
 - 🔧 **DevOps & Cloud Technologies** - Learning
-- 📊 **Agentic Ai** - Self-taught
 
 ## 🎯 Goals for 2024
 
 - [ ] Contribute to 50+ open source projects
 - [ ] Build and deploy 10+ full-stack applications
-- [ ] Learn advanced cloud technologies (AWS, Azure)
+- [ ] Learn advanced cloud technologies (AWS, Azure,Vercel)
 - [ ] Master microservices architecture
 - [ ] Share knowledge through technical blogs and tutorials
 
