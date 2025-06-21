@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Shajar Abbas
 
-<div align="center">
- <h2 style="color: #00D9FF; font-size: 28px; margin: 20px 0;">MERN Stack Developer | Agentic AI Developer</h2>
+<div align="center" style="margin: 30px 0; padding: 20px; background: linear-gradient(135deg, #0d1117, #161b22); border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+  <h2 style="background: linear-gradient(135deg, #00d9ff, #58a6ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 32px; font-weight: 700; margin: 0; letter-spacing: 1px;">
+    MERN Stack Developer | Agentic AI Developer
+  </h2>
 </div>
 
 ## 🚀 About Me
