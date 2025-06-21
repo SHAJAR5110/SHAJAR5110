@@ -68,38 +68,6 @@ I'm a passionate **Full Stack Developer** and **Software Engineer** with experti
   <img src="https://github-profile-trophy.vercel.app/?username=SHAJAR5110&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🔥 Featured Projects
-
-### 🌟 [MERN Stack Development Course](https://github.com/SHAJAR5110/MERN-stack-Development-full-course)
-A comprehensive full-stack development course covering MongoDB, Express.js, React, and Node.js with practical projects.
-
-**Tech Stack:** `React` `Node.js` `MongoDB` `Express.js`
-
-### 🐍 [Python Projects Collection](https://github.com/SHAJAR5110/Python-Projects)
-A collection of Python projects showcasing various concepts from basics to advanced implementations.
-
-**Tech Stack:** `Python` `Django` `Flask` `Data Science`
-
-### 🤖 [OOPs in Python](https://github.com/SHAJAR5110/OOPs-in-python)
-Object-Oriented Programming concepts and implementations in Python with practical examples.
-
-**Tech Stack:** `Python` `OOP Concepts`
-
-### 🎨 [Next.js Portfolio](https://github.com/SHAJAR5110/Next.js-Portfolio)
-A modern, responsive portfolio website built with Next.js showcasing projects and skills.
-
-**Tech Stack:** `Next.js` `React` `Tailwind CSS` `TypeScript`
-
-### 🤖 [Robo Growth](https://github.com/SHAJAR5110/Robo-Growth)
-An innovative project focusing on robotic automation and growth algorithms.
-
-**Tech Stack:** `Python` `Machine Learning` `Automation`
-
-### 🏪 [E-commerce Platform](https://github.com/SHAJAR5110/e-commerce)
-A full-featured e-commerce platform with modern UI/UX and robust backend functionality.
-
-**Tech Stack:** `MERN Stack` `Redux` `Payment Integration`
-
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAJAR5110&theme=react-dark&hide_border=true" alt="Contribution Graph" />
@@ -126,11 +94,11 @@ A full-featured e-commerce platform with modern UI/UX and robust backend functio
 
 ## 📚 Learning Journey
 
-- 🎓 **Bachelor's in Computer Science** (In Progress)
+- 🎓 **Bachelor's in Software Engineering** (In Progress)
 - 💻 **Full Stack Web Development** - Self-taught
 - 🐍 **Python Programming** - Advanced Level
 - 🔧 **DevOps & Cloud Technologies** - Learning
-- 📊 **Data Science & ML** - Exploring
+- 📊 **Agentic Ai** - Self-taught
 
 ## 🎯 Goals for 2024
 
