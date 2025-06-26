@@ -97,7 +97,7 @@ I'm a passionate **Full Stack Developer** and **Software Engineer** with experti
 - 🐍 **Python Programming** - Advanced Level
 - 🔧 **DevOps & Cloud Technologies** - Learning
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 
 - [ ] Contribute to 50+ open source projects
 - [ ] Build and deploy 10+ full-stack applications
