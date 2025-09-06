@@ -14,7 +14,7 @@ I'm a passionate **Full Stack Developer** and **Software Engineer** with experti
 - 🌱 I'm continuously learning **Advanced React**, **Node.js**, and **Machine Learning**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js, MongoDB**
-- 📫 How to reach me: **shajarabbas5110@gmail.com**
+- 📫 How to reach me: **shajarabbas602@gmail.com**
 - ⚡ Fun fact: I love solving complex problems and creating elegant solutions!
 
 ## 🛠️ Tech Stack
